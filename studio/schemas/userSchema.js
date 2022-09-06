@@ -1,8 +1,9 @@
+// User Schema
 export const userSchema = {
   name: "users",
-  type: "document",
-  title: "Users",
-  fiels: [
+  title: "Users", 
+  type: 'document',
+  fields: [
     {
       name: "name",
       type: "string",
