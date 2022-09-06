@@ -837,7 +837,7 @@
 
 "@babel/preset-env@^7.11.5", "@babel/preset-env@^7.16.8":
   version "7.19.0"
-  resolved "https://registry.npmjs.org/@babel/preset-env/-/preset-env-7.19.0.tgz#fd18caf499a67d6411b9ded68dc70d01ed1e5da7"
+  resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.19.0.tgz#fd18caf499a67d6411b9ded68dc70d01ed1e5da7"
   integrity sha512-1YUju1TAFuzjIQqNM9WsF4U6VbD/8t3wEAlw3LFYuuEr+ywqLRcSXxFKz4DCEj+sN94l/XTDiUXYRrsvMpz9WQ==
   dependencies:
     "@babel/compat-data" "^7.19.0"
